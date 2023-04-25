@@ -1,2 +1,4 @@
 # Platformer-Game
-my first 3d platformer
+My First 3d Platformer
+Created to learn the basics of the 3d engine.
+Comes with functional movement system and a working camera system.
